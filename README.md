@@ -1,6 +1,6 @@
 #DropImage
 
-This project comes from cropping images in CoreGraphic from [Lee Brimelow](https://www.youtube.com/watch?v=rvKyeOqMldA&list=PLCboy8hdgWNnOHGEP7j8qTpHrzZWIV07P)
+This project is from cropping images in CoreGraphic by [Lee Brimelow](https://www.youtube.com/watch?v=rvKyeOqMldA&list=PLCboy8hdgWNnOHGEP7j8qTpHrzZWIV07P)
 I added a little gravity and snap behavior to it.
 
 ##Setup
